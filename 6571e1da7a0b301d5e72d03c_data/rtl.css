@@ -1,0 +1,53 @@
+body
+{       
+     text-align: right;
+     direction: rtl;
+     line-height: 1.7;
+	font-size: 14px;
+ 
+ }
+
+
+ h5[data-type="lang"]
+ {
+     padding-left:15px;
+     padding-right:0 
+ }
+
+.article-dateWarpper {
+    float: right !important;
+}
+
+ 
+.sectionbullets ul
+{    
+    text-align: right; 
+    padding-left:0;
+    padding-right: 30px;
+ }
+
+ .sameheader {
+ 
+    letter-spacing: 0;
+}
+
+
+
+
+.ml-auto, .mx-auto {
+    margin-left: 0 !important;
+    margin-right: auto !important;
+}
+
+body[data-font-size="1.8em"] .sectionbullets ul li {
+    padding-right: 30px;
+    padding-left: 3px;
+}
+ 
+
+.ql-align-right {
+    text-align: left !important;
+}
+.ql-align-left {
+    text-align: right !important;
+}
